@@ -4,7 +4,7 @@
 #####################################################
 *.sketch
 *.fig
-.style-guide.md
+style-guide.md
 
 # Avoid accidental upload of the design files
 Design
